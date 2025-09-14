@@ -78,7 +78,7 @@ Nous devrions ajouter 4 bits à 0 dont deux caractères `'='` à la chaîne d'en
 
 ---
 
-## Response au challenge 
+## Reponse au challenge 
 
 Nous puvions faire de l'OSINT en parcourant des sites sur le DarkWeb, ou bien des rapport de societe de cybersecurite.
 La CISA ou equivalent selon le pays publient des rapports qui citent des entreprises victimes ou des secteurs touches.
