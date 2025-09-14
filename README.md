@@ -1,5 +1,3 @@
-```markdown
-
 ### 🔐 Base64 Encoder & Decoder
 
 ## 📖 Description
