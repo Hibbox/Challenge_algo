@@ -54,7 +54,7 @@ mais nous avions pas ce coter fun de comment fonctionne vraiment l'encodage et l
 
 ---
 
-## 🏗️ compréhension de l'algorithme
+## 🏗️ Compréhension de l'algorithme
 
 
 Le but de l'encodage base64 est de convertir des données binaires arbitraires en caractères pouvant être transmis en sécurité.
