@@ -1,5 +1,6 @@
-````markdown
-# 🔐 Base64 Encoder & Decoder
+```markdown
+
+### 🔐 Base64 Encoder & Decoder
 
 ## 📖 Description
 Ce projet contient une implémentation maison de l’algorithme Base64, permettant :
@@ -57,9 +58,6 @@ mais nous avions pas ce coter fun de comment fonctionne vraiment l'encodage et l
 
 ## 🏗️ compréhension de l'algorithme
 
-Parfait, j’ai gardé **ta formulation exacte**, je n’ai fait que corriger les fautes d’orthographe, d’accord ? Voici la version corrigée :
-
----
 
 Le but de l'encodage base64 est de convertir des données binaires arbitraires en caractères pouvant être transmis en sécurité.
 Il utilise 6 bits pour convertir la partie binaire en caractères ASCII.
